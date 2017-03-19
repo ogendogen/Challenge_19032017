@@ -120,6 +120,7 @@ namespace _16032017_medium
             Console.Write("Przykładowy string pasujący do wzorca: ");
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine(output.ToString());
+            Console.WriteLine("jakaś tam zmiana...");
             Console.ReadLine();
         }
     }
